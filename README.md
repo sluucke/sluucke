@@ -2,7 +2,7 @@
 - David William
 - Full Stack Developer
 - 17 years old
-- From Brazilian Brazil
+- Brazilian
 - ❤ Next.JS
 <div align="center">
   <a href="https://github.com/sluucke">
