@@ -1,4 +1,9 @@
-## Olá, eu sou o David William, estudante de programação!
+## Hello welcome!
+- David William
+- Full Stack Developer
+- 17 years old
+- From Brazilian Brazil
+- ❤ Next.JS
 <div align="center">
   <a href="https://github.com/sluucke">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sluucke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
