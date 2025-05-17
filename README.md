@@ -1,9 +1,7 @@
-## Hello welcome!
-- David William
-- Full Stack Developer
-- 20 years old
-- Brazilian
-- ❤ Next.JS
+
+Hello, full stack software developer, currently working as a software engineer on a fintech.
+i like typescript 👍
+
 <div align="center">
   <a href="https://github.com/sluucke">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sluucke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,10 +12,6 @@
   <img align="center" alt="David-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="David-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="David-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<!--   <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
-<!--   <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
-<!--   <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-<!--   <img align="center" alt="David-Electron" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" /> -->
 
   <img align="right" alt="David-pic" height="150" style="border-radius:50px;" src="https://res.cloudinary.com/dqkw3voij/image/upload/v1695916262/gv5qjptknymelpwvl0tz.png">
 </div>
