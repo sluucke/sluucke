@@ -1,5 +1,5 @@
 
-Hello, full stack software developer, currently working as a software engineer on a fintech.
+Hello, full stack software developer, currently working as a software engineer.
 i like typescript 👍
 
 <div align="center">
