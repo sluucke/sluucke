@@ -12,6 +12,9 @@ Full stack software engineer from Brasília, Brazil. Mostly TypeScript, plus Go,
 ## Contributing to
 
 - [**Rose**](https://github.com/Alban1911/Rose): League of Legends skin changer
+- [**XERJ Corpus Hub**](https://hub.xerj.org/contributors/sluucke): selected contributor
+
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/sluucke/badge.svg)](https://hub.xerj.org/contributors/sluucke)
 
 ## Stats
 
